@@ -91,10 +91,11 @@ using System.Collections.Generic;
      }
 */
 
-private int node_count;
 
 class J {
   
+static int node_count;
+
 
     // Driver code - Entrance
     public static void Main()
@@ -136,5 +137,7 @@ class J {
             visited[i]=false;
         }
     }
+
 }
+
 
