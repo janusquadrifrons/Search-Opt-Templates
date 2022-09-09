@@ -1,0 +1,13 @@
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\bin\Debug\netcoreapp3.1\bfs_and_dfs.exe
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\bin\Debug\netcoreapp3.1\bfs_and_dfs.deps.json
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\bin\Debug\netcoreapp3.1\bfs_and_dfs.runtimeconfig.json
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\bin\Debug\netcoreapp3.1\bfs_and_dfs.runtimeconfig.dev.json
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\bin\Debug\netcoreapp3.1\bfs_and_dfs.dll
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\bin\Debug\netcoreapp3.1\bfs_and_dfs.pdb
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\obj\Debug\netcoreapp3.1\bfs_and_dfs.csprojAssemblyReference.cache
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\obj\Debug\netcoreapp3.1\bfs_and_dfs.AssemblyInfoInputs.cache
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\obj\Debug\netcoreapp3.1\bfs_and_dfs.AssemblyInfo.cs
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\obj\Debug\netcoreapp3.1\bfs_and_dfs.csproj.CoreCompileInputs.cache
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\obj\Debug\netcoreapp3.1\bfs_and_dfs.dll
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\obj\Debug\netcoreapp3.1\bfs_and_dfs.pdb
+E:\98_cs\C#\SearchAlgorithms\bfs_and_dfs\obj\Debug\netcoreapp3.1\bfs_and_dfs.genruntimeconfig.cache
